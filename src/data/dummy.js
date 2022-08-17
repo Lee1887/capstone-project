@@ -99,7 +99,7 @@ export const scheduleData = [
   },
   {
     Id: 8,
-    Subject: "Life on Mars",
+    Subject: "Life on Venus",
     Location: "Space Center USA",
     StartTime: "2022-01-16T03:30:00.000Z",
     EndTime: "2022-01-16T04:30:00.000Z",
@@ -107,7 +107,7 @@ export const scheduleData = [
   },
   {
     Id: 9,
-    Subject: "Alien Civilization",
+    Subject: "Alien Love",
     Location: "Space Center USA",
     StartTime: "2022-01-18T05:30:00.000Z",
     EndTime: "2022-01-18T07:30:00.000Z",
@@ -115,7 +115,7 @@ export const scheduleData = [
   },
   {
     Id: 10,
-    Subject: "Wildlife Galleries",
+    Subject: "Wildlife Extreme",
     Location: "Africa",
     StartTime: "2022-01-20T05:30:00.000Z",
     EndTime: "2022-01-20T07:30:00.000Z",
@@ -139,7 +139,7 @@ export const scheduleData = [
   },
   {
     Id: 13,
-    Subject: "Myths of Andromeda Galaxy",
+    Subject: "LoveFootball-Hate Racism",
     Location: "Space Center USA",
     StartTime: "2022-01-06T05:00:00.000Z",
     EndTime: "2022-01-06T07:00:00.000Z",
@@ -155,7 +155,7 @@ export const scheduleData = [
   },
   {
     Id: 15,
-    Subject: "Facts of Humming Birds",
+    Subject: "Earl of Coding",
     Location: "California",
     StartTime: "2022-01-19T04:00:00.000Z",
     EndTime: "2022-01-19T05:30:00.000Z",
@@ -163,7 +163,7 @@ export const scheduleData = [
   },
   {
     Id: 16,
-    Subject: "Sky Gazers",
+    Subject: "Asperg newcoming",
     Location: "Alaska",
     StartTime: "2022-01-22T05:30:00.000Z",
     EndTime: "2022-01-22T07:30:00.000Z",
@@ -179,7 +179,7 @@ export const scheduleData = [
   },
   {
     Id: 18,
-    Subject: "Space Galaxies and Planets",
+    Subject: "Star Wars remake",
     Location: "Space Center USA",
     StartTime: "2022-01-11T11:30:00.000Z",
     EndTime: "2022-01-11T13:00:00.000Z",
@@ -195,7 +195,7 @@ export const scheduleData = [
   },
   {
     Id: 20,
-    Subject: "Alien Civilization",
+    Subject: "HamburgerSV",
     Location: "Space Center USA",
     StartTime: "2022-01-14T10:30:00.000Z",
     EndTime: "2022-01-14T12:30:00.000Z",
@@ -203,35 +203,11 @@ export const scheduleData = [
   },
   {
     Id: 21,
-    Subject: "Alien Civilization",
+    Subject: "Ultras Asperg",
     Location: "Space Center USA",
     StartTime: "2022-01-10T08:30:00.000Z",
     EndTime: "2022-01-10T10:30:00.000Z",
     CategoryColor: "#ea7a57",
-  },
-  {
-    Id: 22,
-    Subject: "The Cycle of Seasons",
-    Location: "Research Center of USA",
-    StartTime: "2022-01-12T09:00:00.000Z",
-    EndTime: "2022-01-12T10:30:00.000Z",
-    CategoryColor: "#00bdae",
-  },
-  {
-    Id: 23,
-    Subject: "Sky Gazers",
-    Location: "Greenland",
-    StartTime: "2022-01-15T09:00:00.000Z",
-    EndTime: "2022-01-15T10:30:00.000Z",
-    CategoryColor: "#ea7a57",
-  },
-  {
-    Id: 24,
-    Subject: "Facts of Humming Birds",
-    Location: "California",
-    StartTime: "2022-01-16T07:00:00.000Z",
-    EndTime: "2022-01-16T09:00:00.000Z",
-    CategoryColor: "#7fa900",
   },
 ];
 export const kanbanData = [
